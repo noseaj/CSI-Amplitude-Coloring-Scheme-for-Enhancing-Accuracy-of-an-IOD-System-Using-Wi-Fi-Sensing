@@ -16,7 +16,7 @@ This repository contains the dataset collected from various CSI data measured in
 
 We install the Nexmon CSI tool on a Raspberry Pi 4 with a single Wi-Fi receiving antenna to capture CSI. And we use an ESP8266 as the Wi-Fi transmitter to send Wi-Fi frames using only one transmitting antenna on the narrowest 20 MHz Wi-Fi channel.
 
-**CSI measurement environments (Tx represents a Wi-Fi transmitter, and Rx represents a CSI receiver).**  
+**CSI measurement environments (Tx represents a Wi-Fi transmitter, and Rx represents a CSI receiver)**  
 <p align="center">
 <img src="source/TTW.png" width="34.9%"/>
 <img src="source/Queuing.png" width="32.7%"/> 
