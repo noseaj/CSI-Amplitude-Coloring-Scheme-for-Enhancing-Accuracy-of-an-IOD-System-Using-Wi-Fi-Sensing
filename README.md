@@ -7,7 +7,10 @@ This repository contains the dataset collected from various CSI data measured in
 \[[ paper ](https://www.mdpi.com/2076-3417/14/17/7850)\]
 
 #### Pipeline for people counting via CSI amplitude coloring
-![Pipeline](https://github.com/user-attachments/assets/75e0d85b-38e2-4122-a58a-da7be507440a)
+<p align="center">
+<img src="source/Pipeline.png">
+</p>
+
 
 ## Experiments
 
@@ -16,7 +19,7 @@ We install the Nexmon CSI tool on a Raspberry Pi 4 with a single Wi-Fi receiving
 **CSI measurement environments (Tx represents a Wi-Fi transmitter, and Rx represents a CSI receiver).**  
 <p align="center">
 <img src="source/TTW.png" width="34.9%"/>
-<img src="souce/Queuing.png" width="32.7%"/> 
+<img src="source/Queuing.png" width="32.7%"/> 
 <img src="source/Corner.png" width="30%"/> 
 </p>
 
